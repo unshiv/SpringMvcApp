@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="imcs-springmvc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="imcs-springmvc-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="imcs-springmvc:war exploded" />
+    </root>
+  </artifact>
+</component>
